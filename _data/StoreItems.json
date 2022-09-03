@@ -4,7 +4,7 @@
       "abr": "beer",
       "category": "Drugs",
       "defname": "Beer",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "wort",
@@ -16,55 +16,55 @@
       "abr": "ambrosia",
       "category": "Drugs",
       "defname": "Ambrosia",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "go-juice",
       "category": "Drugs",
       "defname": "GoJuice",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "luciferium",
       "category": "Drugs",
       "defname": "Luciferium",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "penoxycyline",
       "category": "Drugs",
       "defname": "Penoxycyline",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "flake",
       "category": "Drugs",
       "defname": "Flake",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "psychitetea",
       "category": "Drugs",
       "defname": "PsychiteTea",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "yayo",
       "category": "Drugs",
       "defname": "Yayo",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "smokeleafjoint",
       "category": "Drugs",
       "defname": "SmokeleafJoint",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "wake-up",
       "category": "Drugs",
       "defname": "WakeUp",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "archotecheye",
@@ -766,19 +766,19 @@
       "abr": "herbalmedicine",
       "category": "Medicine",
       "defname": "MedicineHerbal",
-      "price": 1
+      "price": 25
     },
     {
       "abr": "medicine",
       "category": "Medicine",
       "defname": "MedicineIndustrial",
-      "price": 1
+      "price": 250
     },
     {
       "abr": "glitterworldmedicine",
       "category": "Medicine",
       "defname": "MedicineUltratech",
-      "price": 1
+      "price": 750
     },
     {
       "abr": "component",
@@ -10030,43 +10030,43 @@
       "abr": "cosmiceye",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicEye_GenII",
-      "price": 1
+      "price": 5000
     },
     {
       "abr": "cosmicear",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicEar_GenII",
-      "price": 1
+      "price": 5000
     },
     {
       "abr": "cosmicnose",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicNose_GenII",
-      "price": 1
+      "price": 5000
     },
     {
       "abr": "cosmicjaw",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicJaw_GenII",
-      "price": 1
+      "price": 5000
     },
     {
       "abr": "cosmicheadshroud",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicHead_GenII",
-      "price": 1
+      "price": 5000
     },
     {
       "abr": "cosmicneckshroud",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicNeck_GenII",
-      "price": 1
+      "price": 5000
     },
     {
       "abr": "cosmictorsoshroud",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicTorso_GenII",
-      "price": 1
+      "price": 5000
     },
     {
       "abr": "cosmicarm",
@@ -10078,49 +10078,49 @@
       "abr": "cosmicleg",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicLeg_GenII",
-      "price": 1
+      "price": 5000
     },
     {
       "abr": "cosmicspine",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicSpine_GenII",
-      "price": 1
+      "price": 5000
     },
     {
       "abr": "cosmicneuralenchanter",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicBrain_GenII",
-      "price": 1
+      "price": 5000
     },
     {
       "abr": "cosmicheart",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicHeart_GenII",
-      "price": 1
+      "price": 5000
     },
     {
       "abr": "cosmiclung",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicLung_GenII",
-      "price": 1
+      "price": 5000
     },
     {
       "abr": "cosmickidney",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicKidney_GenII",
-      "price": 1
+      "price": 5000
     },
     {
       "abr": "cosmicliver",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicLiver_GenII",
-      "price": 1
+      "price": 5000
     },
     {
       "abr": "cosmicdigestivesystem",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicStomach_GenII",
-      "price": 1
+      "price": 5000
     },
     {
       "abr": "enigmaticeye",
@@ -10222,67 +10222,67 @@
       "abr": "boost",
       "category": "Drugs",
       "defname": "SNS_Drug_Combat_I",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "accelerant",
       "category": "Drugs",
       "defname": "SNS_Drug_Combat_II",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "ascendance",
       "category": "Drugs",
       "defname": "SNS_Drug_Combat_III",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "aegis",
       "category": "Drugs",
       "defname": "SNS_Aegis",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "aeterno",
       "category": "Drugs",
       "defname": "SNS_Aeterno",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "panacea",
       "category": "Drugs",
       "defname": "SNS_Panacea",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "lux",
       "category": "Drugs",
       "defname": "SNS_Lux",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "hedonia",
       "category": "Drugs",
       "defname": "SNS_Hedonia",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "stim-iv",
       "category": "Drugs",
       "defname": "SNS_Stim_I",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "stim-vii",
       "category": "Drugs",
       "defname": "SNS_Stim_II",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "stim-x",
       "category": "Drugs",
       "defname": "SNS_Stim_III",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "advancedgame-of-urboard",
@@ -10660,19 +10660,19 @@
       "abr": "stellarmedicine",
       "category": "Medicine",
       "defname": "SNS_Medicine_GenI",
-      "price": 1
+      "price": 1000
     },
     {
       "abr": "cosmicmedicine",
       "category": "Medicine",
       "defname": "SNS_Medicine_GenII",
-      "price": 1
+      "price": 2000
     },
     {
       "abr": "enigmaticmedicine",
       "category": "Medicine",
       "defname": "SNS_Medicine_GenIII",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "starsteel",
@@ -10864,7 +10864,7 @@
       "abr": "giftofeternity",
       "category": "Medicine",
       "defname": "SNS_Medicine_Pinnacle",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "stablematter",
@@ -15880,7 +15880,7 @@
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": 3333
+      "price": 3000
     }
   ],
   "total": 2647
