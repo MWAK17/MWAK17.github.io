@@ -11494,67 +11494,67 @@
       "abr": "advancedpowerarm",
       "category": "Ultratech",
       "defname": "AdvancedPowerArm",
-      "price": 3000
+      "price": 1750
     },
     {
       "abr": "advancedpowerclaw",
       "category": "Ultratech",
       "defname": "AdvancedPowerClaw",
-      "price": 3000
+      "price": 1750
     },
     {
       "abr": "advancedbionichand",
       "category": "Ultratech",
       "defname": "AdvancedBionicHand",
-      "price": 3000
+      "price": 1750
     },
     {
       "abr": "advancedbionicarm",
       "category": "Ultratech",
       "defname": "AdvancedBionicArm",
-      "price": 3000
+      "price": 1750
     },
     {
       "abr": "advancedbionicleg",
       "category": "Ultratech",
       "defname": "AdvancedBionicLeg",
-      "price": 3000
+      "price": 1750
     },
     {
       "abr": "advancedbionicfoot",
       "category": "Ultratech",
       "defname": "AdvancedBionicFoot",
-      "price": 3000
+      "price": 1750
     },
     {
       "abr": "advancedbionicear",
       "category": "Ultratech",
       "defname": "AdvancedBionicEar",
-      "price": 3000
+      "price": 1750
     },
     {
       "abr": "advancedbionicjaw",
       "category": "Ultratech",
       "defname": "AdvancedBionicJaw",
-      "price": 3000
+      "price": 1750
     },
     {
       "abr": "advancedbioniceye",
       "category": "Ultratech",
       "defname": "AdvancedBionicEye",
-      "price": 3000
+      "price": 1750
     },
     {
       "abr": "advancedbionicspine",
       "category": "Ultratech",
       "defname": "AdvancedBionicSpine",
-      "price": 3000
+      "price": 1750
     },
     {
       "abr": "exoskeletonsuit",
       "category": "Ultratech",
       "defname": "ExoskeletonSuit",
-      "price": 3000
+      "price": 1750
     },
     {
       "abr": "musclestimulator",
@@ -12118,7 +12118,7 @@
       "abr": "zombieserum100%",
       "category": "Serum",
       "defname": "Zombie100Serum",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "riotshield",
@@ -12814,7 +12814,7 @@
       "abr": "zombiemeat",
       "category": "Meat",
       "defname": "Meat_Zombie",
-      "price": 25
+      "price": -10
     },
     {
       "abr": "techprint(cataphractarmor)",
@@ -15877,11 +15877,17 @@
       "price": -10
     },
     {
+      "abr": "neco-arc",
+      "category": "Animals",
+      "defname": "NecoArc",
+      "price": 200
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": 3000
+      "price": -10
     }
   ],
-  "total": 2647
+  "total": 2648
 }
